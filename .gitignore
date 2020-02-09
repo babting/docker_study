@@ -1,0 +1,2 @@
+docker-compose/registry-data/docker/registry/*
+.idea/*
